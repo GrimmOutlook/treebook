@@ -1,0 +1,11 @@
+development:
+  adapter: postgresql
+  database: treebook_development
+
+test:
+  adapter: postgresql
+  database: treebook_test
+
+# production:
+#   adapter: postgresql
+#   database: treebook_test
